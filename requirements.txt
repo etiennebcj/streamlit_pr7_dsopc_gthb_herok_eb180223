@@ -1,6 +1,6 @@
 lightgbm==3.3.4
 matplotlib==3.5.2
-numpy==1.21.1
+numpy==1.22.1
 pandas==1.4.4
 plotly==5.9.0
 scikit_learn==1.2.1
